@@ -1,0 +1,101 @@
+
+.header {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    background-color: rgb(208, 197, 197);
+  }
+ nav {
+    margin-left: auto;
+  }
+ nav ul {
+    display: flex;
+  }
+ nav ul li{
+    padding: 10px 20px;
+  }
+ ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+ a {
+    color: #333;
+    /*text-decoration: none;*/
+  }
+
+
+.inner{
+    text-align: center;
+  }
+
+
+.ichigyou img{
+    vertical-align: middle;
+    display: inline-block;
+}
+.ichigyou span{
+    display: inline-block;
+}
+
+
+p {
+    font-weight: bolder;
+  }
+
+  input {
+    width: 300px;
+  }
+
+  #name {
+    margin-left: 115px;
+    margin-bottom: 10px;
+  }
+
+  #email {
+    margin-left: 35px;
+    margin-bottom: 10px;
+  }
+
+  #phone {
+    margin-left: 83px;
+    margin-bottom: 10px;
+  }
+
+  .content {
+    position: relative;
+  }
+
+  #content {
+    margin-top: 7px;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 300px;
+    margin-left: 19px;
+    
+  }
+
+  .button {
+    margin-top: 30px;
+    width: 550px;
+  }
+
+  button {
+    width: 130px;
+    height: 30px;
+    border: none;
+    background-color: rgb(208, 197, 197);
+    color: #333;
+    font-size: 113%;
+    font-family: MS ゴシック;
+  }
+
+
+.footer {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    background-color: rgb(208, 197, 197);
+}
